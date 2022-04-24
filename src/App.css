@@ -165,8 +165,8 @@ h6 {
   min-height: calc(100vh - 66px);
   background: linear-gradient(
     to right bottom,
-    rgba(76, 76, 76, 0.676),
-    rgba(131, 129, 124, 0.674),
+    rgba(192, 120, 120, 0.676),
+    rgba(172, 170, 162, 0.674),
     rgba(113, 137, 137, 0.787),
     rgba(182, 165, 195, 0.757),
     rgba(152, 148, 126, 0.853),

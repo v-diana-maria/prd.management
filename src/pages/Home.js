@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
       <Hero>
-        <Banner title="H.E.P.P.I." subtitle="hatékonyabb együttműködésért projekt pontos infóhálózata :)">
+        <Banner title="H.E.P.P.I." subtitle="hatékonyabb együttműködésért projekt pontos infóhálózata">
           <Link to="/rooms" className="btn-primary">
             tovább a naptárhoz
           </Link>
