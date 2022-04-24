@@ -46,6 +46,9 @@ class Navbar extends Component {
             <li>
               <Link to="/payment">Apartmanok kiadhatósága</Link>
             </li>
+            <li>
+              <Link to="/adat">Üzenőfal</Link>
+            </li>
           </ul>
         </div>
       </nav>
