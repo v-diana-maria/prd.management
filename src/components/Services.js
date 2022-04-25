@@ -8,7 +8,7 @@ class Services extends Component {
         icon: <FaCocktail />,
         title: 'Étterem, konyha',
         info:
-          "Stay cohesive. Development in english language is important ~"
+          "It's okay to fall apart. Take your sheet together and reconsider your decisions. Focus on finding competent workmates. Development in english language is important ~"
       },
       {
         icon: <FaHiking />,
