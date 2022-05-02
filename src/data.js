@@ -13,7 +13,7 @@ import img8 from './images/room-8.png';
 import img9 from './images/room-9.jpeg';
 import img10 from './images/room-10.jpeg';
 import img11 from './images/room-11.jpeg';
-import img12 from './images/room-12.jpeg';
+import img12 from './images/room-12.png';
 
 export default [
   {
@@ -648,7 +648,7 @@ export default [
       id: '12'
     },
     fields: {
-      name: 'külső képek 4',
+      name: 'kiemelt időszak',
       slug: 'family-deluxe',
       type: 'family',
       price: 210,
