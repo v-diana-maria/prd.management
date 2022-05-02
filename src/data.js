@@ -9,7 +9,7 @@ import img4 from './images/room-4.jpeg';
 import img5 from './images/room-5.jpeg';
 import img6 from './images/room-6.jpeg';
 import img7 from './images/room-7.jpeg';
-import img8 from './images/room-8.jpeg';
+import img8 from './images/room-8.png';
 import img9 from './images/room-9.jpeg';
 import img10 from './images/room-10.jpeg';
 import img11 from './images/room-11.jpeg';
@@ -78,7 +78,7 @@ export default [
       id: '2'
     },
     fields: {
-      name: 'Szent István utcai 2',
+      name: 'teszt',
       slug: 'single-basic',
       type: 'single',
       price: 110,
@@ -135,7 +135,7 @@ export default [
       id: '3'
     },
     fields: {
-      name: 'emeleti alaprajz',
+      name: 'teszt 2',
       slug: 'single-standard',
       type: 'single',
       price: 120,
@@ -192,7 +192,7 @@ export default [
       id: '4'
     },
     fields: {
-      name: 'földszinti alaprajz',
+      name: 'teszt 3',
       slug: 'single-deluxe',
       type: 'single',
       price: 130,
@@ -249,7 +249,7 @@ export default [
       id: '5'
     },
     fields: {
-      name: 'garázs',
+      name: 'teszt 4',
       slug: 'double-economy',
       type: 'double',
       price: 140,
@@ -306,7 +306,7 @@ export default [
       id: '6'
     },
     fields: {
-      name: 'emeleti szoba',
+      name: 'teszt 5',
       slug: 'double-basic',
       type: 'double',
       price: 150,
@@ -363,7 +363,7 @@ export default [
       id: '7'
     },
     fields: {
-      name: 'földszinti szoba',
+      name: 'teszt 6',
       slug: 'double-standard',
       type: 'double',
       price: 160,
@@ -648,7 +648,7 @@ export default [
       id: '12'
     },
     fields: {
-      name: 'muscleFit',
+      name: 'külső képek 4',
       slug: 'family-deluxe',
       type: 'family',
       price: 210,
@@ -705,7 +705,7 @@ export default [
       id: '13'
     },
     fields: {
-      name: 'Szent István utcai 1',
+      name: 'külső képek 5',
       slug: 'single-economy',
       type: 'single',
       price: 3.15,
